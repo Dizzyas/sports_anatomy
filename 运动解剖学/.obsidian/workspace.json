@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9fe4574c270f2349",
+    "type": "split",
+    "children": [
+      {
+        "id": "678104476a03bde2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18350a060f9bc39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.循环系统/笔记/07.淋巴系统组成与功能.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.淋巴系统组成与功能"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50839c2a0269ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "950cfea53834f872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3c7a62e254818c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1c45d8db97557a60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ce27052df22d64f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "573b1ed548d2cb2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc9d8b07cca8175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adc1dd174a71c3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03.循环系统/笔记/07.淋巴系统组成与功能.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "07.淋巴系统组成与功能 的反向链接列表"
+            }
+          },
+          {
+            "id": "f8013b85b2795886",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03.循环系统/笔记/07.淋巴系统组成与功能.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "07.淋巴系统组成与功能 的出链列表"
+            }
+          },
+          {
+            "id": "2f67a4e33c4f93a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "30d7027d4dba6ca0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7218387736398f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03.循环系统/笔记/07.淋巴系统组成与功能.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "07.淋巴系统组成与功能 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "0b3c7a62e254818c",
+  "lastOpenFiles": [
+    "03.循环系统/笔记/05.体循环血管-静脉.md",
+    "03.循环系统/笔记/02.心脏的位置外形结构.md",
+    "03.循环系统/笔记/01.心血管系统的组成和血液循环.md"
+  ]
+}
